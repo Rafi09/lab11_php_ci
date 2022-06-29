@@ -649,3 +649,6 @@ class Filters extends BaseConfig
 - Berikut tampilannya.
 ![Foto](Foto/23.4.png)
 <br>
+
+TERIMA KASIH
+![Foto](Foto/1.jpeg)
